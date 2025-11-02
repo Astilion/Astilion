@@ -57,6 +57,6 @@ Future updates will bring online play and category syncing via Firebase.
 <h2 align="center">/ contact /</h2>
 
 📫 **mkaminski.contact@gmail.com**  
-🌍 [github.com/mateuszkaminski-dev](https://github.com/mateuszkaminski-dev)
+🌍 [github.com/Astilion](https://github.com/Astilion)
 
 ---
